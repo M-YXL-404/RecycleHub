@@ -14,8 +14,10 @@ body {
     color: white;
 }
 
-.logo {
+.logo-link {
     margin: 0;
+    text-decoration: none;
+    color: white;
 }
 
 .nav-links a {
